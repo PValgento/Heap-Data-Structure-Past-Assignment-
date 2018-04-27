@@ -1,7 +1,7 @@
 README {#index}
 =========
 
-This program implements an array-based, min-heap data structure with dynamic capacity and provides terminal interaction functionality allowing the user to interact with the data structure. Written in C++.
+This program, for the purpose of a college assignment, implements an array-based, min-heap data structure with dynamic capacity and provides terminal interaction functionality allowing the user to interact with the data structure. Written in C++.
 
 ## File List
 
